@@ -1,5 +1,5 @@
 # Data Waves: Explore Graph Databases
-Graph Series Part 1 was all about the basics of a graph and for which use cases graphs could be a big added value. Within the demo you already had a sneak preview in the Neo4j graph database. this Repos can be used to spin up the demo and explore neo4j even more or to re-run the queries used during the demo. The Queries used during the demo are available in **QUERIES.md** file.
+Graph Series Part 1 was all about the basics of a graph and for which use cases graphs could be a big added value. Within the demo you already had a preview in the Neo4j graph database. this Repos can be used to spin up the demo and explore neo4j even more or to re-run the queries used during the demo. The Queries used during the demo are available in **QUERIES.md** file.
 
 # Prerequisites
 Please make sure Docker is installed and running.
